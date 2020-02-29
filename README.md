@@ -1,4 +1,4 @@
 # Hai folks!\
-&nsbp;&nsbp;&nsbp;This github account will give you the codes related to arduino,iot,rasperry pie,python,html,js,css.\
-&nsbp;&nsbp&nsbp\
-&nsbp;&nsbp;&nsbp;&nsbp;Let's enjoy coding.
+&nbsp;&nbsp;&nbsp;This github account will give you the codes related to arduino,iot,rasperry pie,python,html,js,css.\
+\
+&nbsp;&nbsp;&nbsp;&nbsp;Let's enjoy coding.
